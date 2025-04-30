@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           <div>
             <h4 className="text-lg font-serif mb-4">Contact</h4>
             <p className="text-sm opacity-70 mb-2">
-              Email: info@weddingplannerconnect.com
+              Email: info@wumple.com
             </p>
             <p className="text-sm opacity-70">
               Phone: (555) 123-4567
@@ -42,7 +42,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-sm opacity-70">
-          <p>© {new Date().getFullYear()} WeddingPlannerConnect. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Wumple. All rights reserved.</p>
         </div>
       </div>
     </footer>
