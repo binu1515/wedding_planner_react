@@ -57,7 +57,7 @@ const PlannerRegister = () => {
   const onSubmit = (values: z.infer<typeof formSchema>) => {
     console.log(values);
     // In a real app, this would handle the registration process
-    alert("This is a demo. In a real application, this would register your account.");
+    alert("Register your account.");
   };
 
   return (

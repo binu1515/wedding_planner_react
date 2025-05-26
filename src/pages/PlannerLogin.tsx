@@ -35,7 +35,7 @@ const PlannerLogin = () => {
   const onSubmit = (values: z.infer<typeof formSchema>) => {
     console.log(values);
     // In a real app, this would handle the login process
-    alert("This is a demo. In a real application, this would log you in.");
+    alert("Are you sure to log you in.");
   };
 
   return (
